@@ -22,6 +22,7 @@
     height: 190px;
     padding: 20px;
     border: 2px dotted #D1D1D5;
+    scale: 0.9;
 }
 .ico {
     font-size: 40px;
